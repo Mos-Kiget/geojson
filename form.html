@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A site's navigational system </title>
+  
+  <head>
+  <title>Student Course Registration Form</title>
+  
+  
+<nav class="navbar" style="height:50px; background-color:#000000;">
+        
+        <div id="the whole thing" class="menubar" style="height:100%; width:100%;background-color:#BED9E9;display:flex">
+        <div id="leftThing" class="site-logo header_text" style="font-size:1.1em;width:80%;display:flex">
+          <ul><a href="C:/Users/my pc/Desktop/Lab1_6070/index.html" style="color:#000000;letter-spacing:.010cm;font-weight:500;" >Home</a></ul>
+          <ul><a href="#" target="blank" rel="noopener noreferrer" style="color:#F1F506;letter-spacing:.010cm;font-weight:500;" >Form</a></ul>
+        </div>
+        <div id="rightThing" class="site-logo header_text" style="font-size:1.1em;width:20%;display:float;">
+          <ul><a href="#" target="blank" rel="noopener noreferrer" style="color:#000000;letter-spacing:.010cm;font-weight:500;float:left;padding-right:12px">Future Page 2</a></ul>
+        </div>  
+        </div>
+     
+  
+    
+  
+</nav>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+
+    form {
+      width: 500px;
+      margin: 0 auto;
+    }
+
+    input,
+    select {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      background-color: #000;
+      color: #fff;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: none;
+      cursor: pointer;
+    }
+	
+	.active {
+  color: #fff;
+  background-color: #000;
+}
+  </style>
+</head>
+<body>
+  <h1>Student Course Registration Form</h1>
+  <form action="/register" method="post">
+    <input type="text" name="name" placeholder="Enter your name">
+    <input type="email" name="email" placeholder="Enter your student ID">
+    <select name="course">
+      <option value="">Select a course</option>
+      <option value="Web Application Development">6070A</option>
+      <option value="Mobile Computing">6120A</option>
+      <option value="Research Methods">6220A</option>
+    </select>
+    <button type="submit" formaction="mailto:moskiget@gmail.com">Register</button>
+
+  </form>
+</body>
+</html>
