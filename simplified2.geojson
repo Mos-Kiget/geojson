@@ -305,7 +305,8 @@
       },
       "properties": {
         "FID": 0,
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        "ISO3CD": "AFG"
       }
     },
     {
@@ -626,7 +627,8 @@
       },
       "properties": {
         "FID": 1,
-        "name": "Angola"
+        "name": "Angola",
+        "ISO3CD": "AGO"
       }
     },
     {
@@ -729,7 +731,8 @@
       },
       "properties": {
         "FID": 2,
-        "name": "Albania"
+        "name": "Albania",
+        "ISO3CD": "ALB"
       }
     },
     {
@@ -832,7 +835,8 @@
       },
       "properties": {
         "FID": 3,
-        "name": "United Arab Emirates"
+        "name": "United Arab Emirates",
+        "ISO3CD": "ARE"
       }
     },
     {
@@ -1337,7 +1341,8 @@
       },
       "properties": {
         "FID": 4,
-        "name": "Argentina"
+        "name": "Argentina",
+        "ISO3CD": "ARG"
       }
     },
     {
@@ -1432,7 +1437,8 @@
       },
       "properties": {
         "FID": 5,
-        "name": "Armenia"
+        "name": "Armenia",
+        "ISO3CD": "ARM"
       }
     },
     {
@@ -4101,7 +4107,8 @@
       },
       "properties": {
         "FID": 6,
-        "name": "Antarctica"
+        "name": "Antarctica",
+        "ISO3CD": "ATA"
       }
     },
     {
@@ -4152,7 +4159,8 @@
       },
       "properties": {
         "FID": 7,
-        "name": "France"
+        "name": "French Southern Territories",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -5137,7 +5145,8 @@
       },
       "properties": {
         "FID": 8,
-        "name": "Australia"
+        "name": "Australia",
+        "ISO3CD": "AUS"
       }
     },
     {
@@ -5308,7 +5317,8 @@
       },
       "properties": {
         "FID": 9,
-        "name": "Austria"
+        "name": "Austria",
+        "ISO3CD": "AUT"
       }
     },
     {
@@ -5505,7 +5515,8 @@
       },
       "properties": {
         "FID": 10,
-        "name": "Azerbaijan"
+        "name": "Azerbaijan",
+        "ISO3CD": "AZE"
       }
     },
     {
@@ -5572,7 +5583,8 @@
       },
       "properties": {
         "FID": 11,
-        "name": "Burundi"
+        "name": "Burundi",
+        "ISO3CD": "BDI"
       }
     },
     {
@@ -5647,7 +5659,8 @@
       },
       "properties": {
         "FID": 12,
-        "name": "Belgium"
+        "name": "Belgium",
+        "ISO3CD": "BEL"
       }
     },
     {
@@ -5762,7 +5775,8 @@
       },
       "properties": {
         "FID": 13,
-        "name": "Benin"
+        "name": "Benin",
+        "ISO3CD": "BEN"
       }
     },
     {
@@ -5933,7 +5947,8 @@
       },
       "properties": {
         "FID": 14,
-        "name": "Burkina Faso"
+        "name": "Burkina Faso",
+        "ISO3CD": "BFA"
       }
     },
     {
@@ -6092,7 +6107,8 @@
       },
       "properties": {
         "FID": 15,
-        "name": "Bangladesh"
+        "name": "Bangladesh",
+        "ISO3CD": "BGD"
       }
     },
     {
@@ -6219,7 +6235,8 @@
       },
       "properties": {
         "FID": 16,
-        "name": "Bulgaria"
+        "name": "Bulgaria",
+        "ISO3CD": "BGR"
       }
     },
     {
@@ -6328,7 +6345,8 @@
       },
       "properties": {
         "FID": 17,
-        "name": "The Bahamas"
+        "name": "Bahamas",
+        "ISO3CD": "BHS"
       }
     },
     {
@@ -6431,7 +6449,8 @@
       },
       "properties": {
         "FID": 18,
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "ISO3CD": "BIH"
       }
     },
     {
@@ -6622,7 +6641,8 @@
       },
       "properties": {
         "FID": 19,
-        "name": "Belarus"
+        "name": "Belarus",
+        "ISO3CD": "BLR"
       }
     },
     {
@@ -6717,7 +6737,8 @@
       },
       "properties": {
         "FID": 20,
-        "name": "Belize"
+        "name": "Belize",
+        "ISO3CD": "BLZ"
       }
     },
     {
@@ -7076,7 +7097,8 @@
       },
       "properties": {
         "FID": 21,
-        "name": "Bermuda"
+        "name": "Bermuda",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -7331,7 +7353,8 @@
       },
       "properties": {
         "FID": 22,
-        "name": "Bolivia"
+        "name": "Bolivia (Plurinational State of)",
+        "ISO3CD": "BOL"
       }
     },
     {
@@ -8158,7 +8181,8 @@
       },
       "properties": {
         "FID": 23,
-        "name": "Brazil"
+        "name": "Brazil",
+        "ISO3CD": "BRA"
       }
     },
     {
@@ -8205,7 +8229,8 @@
       },
       "properties": {
         "FID": 24,
-        "name": "Brunei"
+        "name": "Brunei Darussalam",
+        "ISO3CD": "BRN"
       }
     },
     {
@@ -8272,7 +8297,8 @@
       },
       "properties": {
         "FID": 25,
-        "name": "Bhutan"
+        "name": "Bhutan",
+        "ISO3CD": "BTN"
       }
     },
     {
@@ -8447,7 +8473,8 @@
       },
       "properties": {
         "FID": 26,
-        "name": "Botswana"
+        "name": "Botswana",
+        "ISO3CD": "BWA"
       }
     },
     {
@@ -8710,7 +8737,8 @@
       },
       "properties": {
         "FID": 27,
-        "name": "Central African Republic"
+        "name": "Central African Republic",
+        "ISO3CD": "CAF"
       }
     },
     {
@@ -12011,7 +12039,8 @@
       },
       "properties": {
         "FID": 28,
-        "name": "Canada"
+        "name": "Canada",
+        "ISO3CD": "CAN"
       }
     },
     {
@@ -12122,7 +12151,8 @@
       },
       "properties": {
         "FID": 29,
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "ISO3CD": "CHE"
       }
     },
     {
@@ -12599,7 +12629,8 @@
       },
       "properties": {
         "FID": 30,
-        "name": "Chile"
+        "name": "Chile",
+        "ISO3CD": "CHL"
       }
     },
     {
@@ -13716,7 +13747,8 @@
       },
       "properties": {
         "FID": 31,
-        "name": "China"
+        "name": "China",
+        "ISO3CD": "CHN"
       }
     },
     {
@@ -13915,7 +13947,8 @@
       },
       "properties": {
         "FID": 32,
-        "name": "Ivory Coast"
+        "name": "Côte d'Ivoire",
+        "ISO3CD": "CIV"
       }
     },
     {
@@ -14174,7 +14207,8 @@
       },
       "properties": {
         "FID": 33,
-        "name": "Cameroon"
+        "name": "Cameroon",
+        "ISO3CD": "CMR"
       }
     },
     {
@@ -14677,7 +14711,8 @@
       },
       "properties": {
         "FID": 34,
-        "name": "Democratic Republic of the Congo"
+        "name": "Democratic Republic of the Congo",
+        "ISO3CD": "COD"
       }
     },
     {
@@ -14888,7 +14923,8 @@
       },
       "properties": {
         "FID": 35,
-        "name": "Republic of the Congo"
+        "name": "Congo",
+        "ISO3CD": "COG"
       }
     },
     {
@@ -15303,7 +15339,8 @@
       },
       "properties": {
         "FID": 36,
-        "name": "Colombia"
+        "name": "Colombia",
+        "ISO3CD": "COL"
       }
     },
     {
@@ -15462,7 +15499,8 @@
       },
       "properties": {
         "FID": 37,
-        "name": "Costa Rica"
+        "name": "Costa Rica",
+        "ISO3CD": "CRI"
       }
     },
     {
@@ -15645,7 +15683,8 @@
       },
       "properties": {
         "FID": 38,
-        "name": "Cuba"
+        "name": "Cuba",
+        "ISO3CD": "CUB"
       }
     },
     {
@@ -15708,7 +15747,8 @@
       },
       "properties": {
         "FID": 39,
-        "name": "Cyprus"
+        "name": "Cyprus",
+        "ISO3CD": "CYP"
       }
     },
     {
@@ -15863,7 +15903,8 @@
       },
       "properties": {
         "FID": 40,
-        "name": "Czech Republic"
+        "name": "Czechia",
+        "ISO3CD": "CZE"
       }
     },
     {
@@ -16110,7 +16151,8 @@
       },
       "properties": {
         "FID": 41,
-        "name": "Germany"
+        "name": "Germany",
+        "ISO3CD": "DEU"
       }
     },
     {
@@ -16185,7 +16227,8 @@
       },
       "properties": {
         "FID": 42,
-        "name": "Djibouti"
+        "name": "Djibouti",
+        "ISO3CD": "DJI"
       }
     },
     {
@@ -16302,7 +16345,8 @@
       },
       "properties": {
         "FID": 43,
-        "name": "Denmark"
+        "name": "Denmark",
+        "ISO3CD": "DNK"
       }
     },
     {
@@ -16421,7 +16465,8 @@
       },
       "properties": {
         "FID": 44,
-        "name": "Dominican Republic"
+        "name": "Dominican Republic",
+        "ISO3CD": "DOM"
       }
     },
     {
@@ -16684,7 +16729,8 @@
       },
       "properties": {
         "FID": 45,
-        "name": "Algeria"
+        "name": "Algeria",
+        "ISO3CD": "DZA"
       }
     },
     {
@@ -16831,7 +16877,8 @@
       },
       "properties": {
         "FID": 46,
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "ISO3CD": "ECU"
       }
     },
     {
@@ -17034,7 +17081,8 @@
       },
       "properties": {
         "FID": 47,
-        "name": "Egypt"
+        "name": "Egypt",
+        "ISO3CD": "EGY"
       }
     },
     {
@@ -17161,7 +17209,8 @@
       },
       "properties": {
         "FID": 48,
-        "name": "Eritrea"
+        "name": "Eritrea",
+        "ISO3CD": "ERI"
       }
     },
     {
@@ -17396,7 +17445,8 @@
       },
       "properties": {
         "FID": 49,
-        "name": "Spain"
+        "name": "Spain",
+        "ISO3CD": "ESP"
       }
     },
     {
@@ -17479,7 +17529,8 @@
       },
       "properties": {
         "FID": 50,
-        "name": "Estonia"
+        "name": "Estonia",
+        "ISO3CD": "EST"
       }
     },
     {
@@ -17730,7 +17781,8 @@
       },
       "properties": {
         "FID": 51,
-        "name": "Ethiopia"
+        "name": "Ethiopia",
+        "ISO3CD": "ETH"
       }
     },
     {
@@ -17897,7 +17949,8 @@
       },
       "properties": {
         "FID": 52,
-        "name": "Finland"
+        "name": "Finland",
+        "ISO3CD": "FIN"
       }
     },
     {
@@ -18010,7 +18063,8 @@
       },
       "properties": {
         "FID": 53,
-        "name": "Fiji"
+        "name": "Fiji",
+        "ISO3CD": "FJI"
       }
     },
     {
@@ -18065,7 +18119,8 @@
       },
       "properties": {
         "FID": 54,
-        "name": "United Kingdom"
+        "name": "Falkland Islands (Malvinas)",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -18322,7 +18377,8 @@
       },
       "properties": {
         "FID": 55,
-        "name": "France"
+        "name": "France",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -18461,7 +18517,8 @@
       },
       "properties": {
         "FID": 56,
-        "name": "Gabon"
+        "name": "Gabon",
+        "ISO3CD": "GAB"
       }
     },
     {
@@ -18706,7 +18763,8 @@
       },
       "properties": {
         "FID": 57,
-        "name": "United Kingdom"
+        "name": "United Kingdom of Great Britain & Northern Ireland",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -18817,7 +18875,8 @@
       },
       "properties": {
         "FID": 58,
-        "name": "Georgia"
+        "name": "Georgia",
+        "ISO3CD": "GEO"
       }
     },
     {
@@ -18932,7 +18991,8 @@
       },
       "properties": {
         "FID": 59,
-        "name": "Ghana"
+        "name": "Ghana",
+        "ISO3CD": "GHA"
       }
     },
     {
@@ -19227,7 +19287,8 @@
       },
       "properties": {
         "FID": 60,
-        "name": "Guinea"
+        "name": "Guinea",
+        "ISO3CD": "GIN"
       }
     },
     {
@@ -19306,7 +19367,8 @@
       },
       "properties": {
         "FID": 61,
-        "name": "Gambia"
+        "name": "Gambia",
+        "ISO3CD": "GMB"
       }
     },
     {
@@ -19397,7 +19459,8 @@
       },
       "properties": {
         "FID": 62,
-        "name": "Guinea Bissau"
+        "name": "Guinea Bissau",
+        "ISO3CD": "GNB"
       }
     },
     {
@@ -19440,7 +19503,8 @@
       },
       "properties": {
         "FID": 63,
-        "name": "Equatorial Guinea"
+        "name": "Equatorial Guinea",
+        "ISO3CD": "GNQ"
       }
     },
     {
@@ -19677,7 +19741,8 @@
       },
       "properties": {
         "FID": 64,
-        "name": "Greece"
+        "name": "Greece",
+        "ISO3CD": "GRC"
       }
     },
     {
@@ -20220,7 +20285,8 @@
       },
       "properties": {
         "FID": 65,
-        "name": "Greenland"
+        "name": "Greenland",
+        "ISO3CD": "DNK"
       }
     },
     {
@@ -20375,7 +20441,8 @@
       },
       "properties": {
         "FID": 66,
-        "name": "Guatemala"
+        "name": "Guatemala",
+        "ISO3CD": "GTM"
       }
     },
     {
@@ -20466,7 +20533,8 @@
       },
       "properties": {
         "FID": 67,
-        "name": "French Guiana"
+        "name": "French Guiana",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -20641,7 +20709,8 @@
       },
       "properties": {
         "FID": 68,
-        "name": "Guyana"
+        "name": "Guyana",
+        "ISO3CD": "GUY"
       }
     },
     {
@@ -20884,7 +20953,8 @@
       },
       "properties": {
         "FID": 69,
-        "name": "Honduras"
+        "name": "Honduras",
+        "ISO3CD": "HND"
       }
     },
     {
@@ -21067,7 +21137,8 @@
       },
       "properties": {
         "FID": 70,
-        "name": "Croatia"
+        "name": "Croatia",
+        "ISO3CD": "HRV"
       }
     },
     {
@@ -21166,7 +21237,8 @@
       },
       "properties": {
         "FID": 71,
-        "name": "Haiti"
+        "name": "Haiti",
+        "ISO3CD": "HTI"
       }
     },
     {
@@ -21305,7 +21377,8 @@
       },
       "properties": {
         "FID": 72,
-        "name": "Hungary"
+        "name": "Hungary",
+        "ISO3CD": "HUN"
       }
     },
     {
@@ -22370,7 +22443,8 @@
       },
       "properties": {
         "FID": 73,
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "ISO3CD": "IDN"
       }
     },
     {
@@ -22947,7 +23021,8 @@
       },
       "properties": {
         "FID": 74,
-        "name": "India"
+        "name": "India",
+        "ISO3CD": "IND"
       }
     },
     {
@@ -23014,7 +23089,8 @@
       },
       "properties": {
         "FID": 75,
-        "name": "Ireland"
+        "name": "Ireland",
+        "ISO3CD": "IRL"
       }
     },
     {
@@ -23329,7 +23405,8 @@
       },
       "properties": {
         "FID": 76,
-        "name": "Iran"
+        "name": "Iran (Islamic Republic of)",
+        "ISO3CD": "IRN"
       }
     },
     {
@@ -23464,7 +23541,8 @@
       },
       "properties": {
         "FID": 77,
-        "name": "Iraq"
+        "name": "Iraq",
+        "ISO3CD": "IRQ"
       }
     },
     {
@@ -23559,7 +23637,8 @@
       },
       "properties": {
         "FID": 78,
-        "name": "Iceland"
+        "name": "Iceland",
+        "ISO3CD": "ISL"
       }
     },
     {
@@ -23666,7 +23745,8 @@
       },
       "properties": {
         "FID": 79,
-        "name": "Israel"
+        "name": "Israel",
+        "ISO3CD": "ISR"
       }
     },
     {
@@ -24039,7 +24119,8 @@
       },
       "properties": {
         "FID": 80,
-        "name": "Italy"
+        "name": "Italy",
+        "ISO3CD": "ITA"
       }
     },
     {
@@ -24098,7 +24179,8 @@
       },
       "properties": {
         "FID": 81,
-        "name": "Jamaica"
+        "name": "Jamaica",
+        "ISO3CD": "JAM"
       }
     },
     {
@@ -24189,7 +24271,8 @@
       },
       "properties": {
         "FID": 82,
-        "name": "Jordan"
+        "name": "Jordan",
+        "ISO3CD": "JOR"
       }
     },
     {
@@ -24474,7 +24557,8 @@
       },
       "properties": {
         "FID": 83,
-        "name": "Japan"
+        "name": "Japan",
+        "ISO3CD": "JPN"
       }
     },
     {
@@ -24937,7 +25021,8 @@
       },
       "properties": {
         "FID": 84,
-        "name": "Kazakhstan"
+        "name": "Kazakhstan",
+        "ISO3CD": "KAZ"
       }
     },
     {
@@ -25092,7 +25177,8 @@
       },
       "properties": {
         "FID": 85,
-        "name": "Kenya"
+        "name": "Kenya",
+        "ISO3CD": "KEN"
       }
     },
     {
@@ -25247,7 +25333,8 @@
       },
       "properties": {
         "FID": 86,
-        "name": "Kyrgyzstan"
+        "name": "Kyrgyzstan",
+        "ISO3CD": "KGZ"
       }
     },
     {
@@ -25330,7 +25417,8 @@
       },
       "properties": {
         "FID": 87,
-        "name": "Cambodia"
+        "name": "Cambodia",
+        "ISO3CD": "KHM"
       }
     },
     {
@@ -25421,7 +25509,8 @@
       },
       "properties": {
         "FID": 88,
-        "name": "South Korea"
+        "name": "Republic of Korea",
+        "ISO3CD": "KOR"
       }
     },
     {
@@ -25472,7 +25561,8 @@
       },
       "properties": {
         "FID": 89,
-        "name": "Kuwait"
+        "name": "Kuwait",
+        "ISO3CD": "KWT"
       }
     },
     {
@@ -25635,7 +25725,8 @@
       },
       "properties": {
         "FID": 90,
-        "name": "Laos"
+        "name": "Lao People's Democratic Republic",
+        "ISO3CD": "LAO"
       }
     },
     {
@@ -25694,7 +25785,8 @@
       },
       "properties": {
         "FID": 91,
-        "name": "Lebanon"
+        "name": "Lebanon",
+        "ISO3CD": "LBN"
       }
     },
     {
@@ -25817,7 +25909,8 @@
       },
       "properties": {
         "FID": 92,
-        "name": "Liberia"
+        "name": "Liberia",
+        "ISO3CD": "LBR"
       }
     },
     {
@@ -26056,7 +26149,8 @@
       },
       "properties": {
         "FID": 93,
-        "name": "Libya"
+        "name": "Libya",
+        "ISO3CD": "LBY"
       }
     },
     {
@@ -26111,7 +26205,8 @@
       },
       "properties": {
         "FID": 94,
-        "name": "Sri Lanka"
+        "name": "Sri Lanka",
+        "ISO3CD": "LKA"
       }
     },
     {
@@ -26174,7 +26269,8 @@
       },
       "properties": {
         "FID": 95,
-        "name": "Lesotho"
+        "name": "Lesotho",
+        "ISO3CD": "LSO"
       }
     },
     {
@@ -26265,7 +26361,8 @@
       },
       "properties": {
         "FID": 96,
-        "name": "Lithuania"
+        "name": "Lithuania",
+        "ISO3CD": "LTU"
       }
     },
     {
@@ -26308,7 +26405,8 @@
       },
       "properties": {
         "FID": 97,
-        "name": "Luxembourg"
+        "name": "Luxembourg",
+        "ISO3CD": "LUX"
       }
     },
     {
@@ -26411,7 +26509,8 @@
       },
       "properties": {
         "FID": 98,
-        "name": "Latvia"
+        "name": "Latvia",
+        "ISO3CD": "LVA"
       }
     },
     {
@@ -26582,7 +26681,8 @@
       },
       "properties": {
         "FID": 99,
-        "name": "Morocco"
+        "name": "Morocco",
+        "ISO3CD": "MAR"
       }
     },
     {
@@ -26705,7 +26805,8 @@
       },
       "properties": {
         "FID": 100,
-        "name": "Moldova"
+        "name": "Republic of Moldova",
+        "ISO3CD": "MDA"
       }
     },
     {
@@ -26916,7 +27017,8 @@
       },
       "properties": {
         "FID": 101,
-        "name": "Madagascar"
+        "name": "Madagascar",
+        "ISO3CD": "MDG"
       }
     },
     {
@@ -27611,7 +27713,8 @@
       },
       "properties": {
         "FID": 102,
-        "name": "Mexico"
+        "name": "Mexico",
+        "ISO3CD": "MEX"
       }
     },
     {
@@ -27694,7 +27797,8 @@
       },
       "properties": {
         "FID": 103,
-        "name": "Macedonia"
+        "name": "North Macedonia",
+        "ISO3CD": "MKD"
       }
     },
     {
@@ -28013,7 +28117,8 @@
       },
       "properties": {
         "FID": 104,
-        "name": "Mali"
+        "name": "Mali",
+        "ISO3CD": "MLI"
       }
     },
     {
@@ -28098,7 +28203,8 @@
       },
       "properties": {
         "FID": 105,
-        "name": "Malta"
+        "name": "Malta",
+        "ISO3CD": "MLT"
       }
     },
     {
@@ -28393,7 +28499,8 @@
       },
       "properties": {
         "FID": 106,
-        "name": "Myanmar"
+        "name": "Myanmar",
+        "ISO3CD": "MMR"
       }
     },
     {
@@ -28480,7 +28587,8 @@
       },
       "properties": {
         "FID": 107,
-        "name": "Montenegro"
+        "name": "Montenegro",
+        "ISO3CD": "MNE"
       }
     },
     {
@@ -28795,7 +28903,8 @@
       },
       "properties": {
         "FID": 108,
-        "name": "Mongolia"
+        "name": "Mongolia",
+        "ISO3CD": "MNG"
       }
     },
     {
@@ -29118,7 +29227,8 @@
       },
       "properties": {
         "FID": 109,
-        "name": "Mozambique"
+        "name": "Mozambique",
+        "ISO3CD": "MOZ"
       }
     },
     {
@@ -29289,7 +29399,8 @@
       },
       "properties": {
         "FID": 110,
-        "name": "Mauritania"
+        "name": "Mauritania",
+        "ISO3CD": "MRT"
       }
     },
     {
@@ -29416,7 +29527,8 @@
       },
       "properties": {
         "FID": 111,
-        "name": "Malawi"
+        "name": "Malawi",
+        "ISO3CD": "MWI"
       }
     },
     {
@@ -29685,7 +29797,8 @@
       },
       "properties": {
         "FID": 112,
-        "name": "Malaysia"
+        "name": "Malaysia",
+        "ISO3CD": "MYS"
       }
     },
     {
@@ -29876,7 +29989,8 @@
       },
       "properties": {
         "FID": 113,
-        "name": "Namibia"
+        "name": "Namibia",
+        "ISO3CD": "NAM"
       }
     },
     {
@@ -29943,7 +30057,8 @@
       },
       "properties": {
         "FID": 114,
-        "name": "New Caledonia"
+        "name": "New Caledonia",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -30190,7 +30305,8 @@
       },
       "properties": {
         "FID": 115,
-        "name": "Niger"
+        "name": "Niger",
+        "ISO3CD": "NER"
       }
     },
     {
@@ -30437,7 +30553,8 @@
       },
       "properties": {
         "FID": 116,
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "ISO3CD": "NGA"
       }
     },
     {
@@ -30660,7 +30777,8 @@
       },
       "properties": {
         "FID": 117,
-        "name": "Nicaragua"
+        "name": "Nicaragua",
+        "ISO3CD": "NIC"
       }
     },
     {
@@ -30731,7 +30849,8 @@
       },
       "properties": {
         "FID": 118,
-        "name": "Netherlands"
+        "name": "Kingdom of the Netherlands",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -31112,7 +31231,8 @@
       },
       "properties": {
         "FID": 119,
-        "name": "Norway"
+        "name": "Norway",
+        "ISO3CD": "NOR"
       }
     },
     {
@@ -31219,7 +31339,8 @@
       },
       "properties": {
         "FID": 120,
-        "name": "Nepal"
+        "name": "Nepal",
+        "ISO3CD": "NPL"
       }
     },
     {
@@ -31504,7 +31625,8 @@
       },
       "properties": {
         "FID": 121,
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "ISO3CD": "NZL"
       }
     },
     {
@@ -31713,7 +31835,8 @@
       },
       "properties": {
         "FID": 122,
-        "name": "Oman"
+        "name": "Oman",
+        "ISO3CD": "OMN"
       }
     },
     {
@@ -32018,7 +32141,8 @@
       },
       "properties": {
         "FID": 123,
-        "name": "Pakistan"
+        "name": "Pakistan",
+        "ISO3CD": "PAK"
       }
     },
     {
@@ -32241,7 +32365,8 @@
       },
       "properties": {
         "FID": 124,
-        "name": "Panama"
+        "name": "Panama",
+        "ISO3CD": "PAN"
       }
     },
     {
@@ -32560,7 +32685,8 @@
       },
       "properties": {
         "FID": 125,
-        "name": "Peru"
+        "name": "Peru",
+        "ISO3CD": "PER"
       }
     },
     {
@@ -33041,7 +33167,8 @@
       },
       "properties": {
         "FID": 126,
-        "name": "Philippines"
+        "name": "Philippines",
+        "ISO3CD": "PHL"
       }
     },
     {
@@ -33394,7 +33521,8 @@
       },
       "properties": {
         "FID": 127,
-        "name": "Papua New Guinea"
+        "name": "Papua New Guinea",
+        "ISO3CD": "PNG"
       }
     },
     {
@@ -33589,7 +33717,8 @@
       },
       "properties": {
         "FID": 128,
-        "name": "Poland"
+        "name": "Poland",
+        "ISO3CD": "POL"
       }
     },
     {
@@ -33640,7 +33769,8 @@
       },
       "properties": {
         "FID": 129,
-        "name": "Puerto Rico"
+        "name": "Puerto Rico",
+        "ISO3CD": "USA"
       }
     },
     {
@@ -33827,7 +33957,8 @@
       },
       "properties": {
         "FID": 130,
-        "name": "North Korea"
+        "name": "Democratic People's Republic of Korea",
+        "ISO3CD": "PRK"
       }
     },
     {
@@ -33974,7 +34105,8 @@
       },
       "properties": {
         "FID": 131,
-        "name": "Portugal"
+        "name": "Portugal",
+        "ISO3CD": "PRT"
       }
     },
     {
@@ -34121,7 +34253,8 @@
       },
       "properties": {
         "FID": 132,
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "ISO3CD": "PRY"
       }
     },
     {
@@ -34172,7 +34305,8 @@
       },
       "properties": {
         "FID": 133,
-        "name": "Qatar"
+        "name": "Qatar",
+        "ISO3CD": "QAT"
       }
     },
     {
@@ -34363,7 +34497,8 @@
       },
       "properties": {
         "FID": 134,
-        "name": "Romania"
+        "name": "Romania",
+        "ISO3CD": "ROU"
       }
     },
     {
@@ -36820,7 +36955,8 @@
       },
       "properties": {
         "FID": 135,
-        "name": "Russia"
+        "name": "Russian Federation",
+        "ISO3CD": "RUS"
       }
     },
     {
@@ -36887,7 +37023,8 @@
       },
       "properties": {
         "FID": 136,
-        "name": "Rwanda"
+        "name": "Rwanda",
+        "ISO3CD": "RWA"
       }
     },
     {
@@ -37026,7 +37163,8 @@
       },
       "properties": {
         "FID": 137,
-        "name": "Western Sahara"
+        "name": "Western Sahara",
+        "ISO3CD": "ESH"
       }
     },
     {
@@ -37345,7 +37483,8 @@
       },
       "properties": {
         "FID": 138,
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "ISO3CD": "SAU"
       }
     },
     {
@@ -37708,7 +37847,8 @@
       },
       "properties": {
         "FID": 139,
-        "name": "Sudan"
+        "name": "Sudan",
+        "ISO3CD": "SDN"
       }
     },
     {
@@ -37987,7 +38127,8 @@
       },
       "properties": {
         "FID": 140,
-        "name": "South Sudan"
+        "name": "South Sudan",
+        "ISO3CD": "SSD"
       }
     },
     {
@@ -38178,7 +38319,8 @@
       },
       "properties": {
         "FID": 141,
-        "name": "Senegal"
+        "name": "Senegal",
+        "ISO3CD": "SEN"
       }
     },
     {
@@ -38359,7 +38501,8 @@
       },
       "properties": {
         "FID": 142,
-        "name": "Solomon Islands"
+        "name": "Solomon Islands",
+        "ISO3CD": "SLB"
       }
     },
     {
@@ -38462,7 +38605,8 @@
       },
       "properties": {
         "FID": 143,
-        "name": "Sierra Leone"
+        "name": "Sierra Leone",
+        "ISO3CD": "SLE"
       }
     },
     {
@@ -38557,7 +38701,8 @@
       },
       "properties": {
         "FID": 144,
-        "name": "El Salvador"
+        "name": "El Salvador",
+        "ISO3CD": "SLV"
       }
     },
     {
@@ -38744,7 +38889,8 @@
       },
       "properties": {
         "FID": 145,
-        "name": "Somalia"
+        "name": "Somalia",
+        "ISO3CD": "SOM"
       }
     },
     {
@@ -38927,7 +39073,8 @@
       },
       "properties": {
         "FID": 146,
-        "name": "Republic of Serbia"
+        "name": "Serbia",
+        "ISO3CD": "SRB"
       }
     },
     {
@@ -39046,7 +39193,8 @@
       },
       "properties": {
         "FID": 147,
-        "name": "Suriname"
+        "name": "Suriname",
+        "ISO3CD": "SUR"
       }
     },
     {
@@ -39193,7 +39341,8 @@
       },
       "properties": {
         "FID": 148,
-        "name": "Slovakia"
+        "name": "Slovakia",
+        "ISO3CD": "SVK"
       }
     },
     {
@@ -39280,7 +39429,8 @@
       },
       "properties": {
         "FID": 149,
-        "name": "Slovenia"
+        "name": "Slovenia",
+        "ISO3CD": "SVN"
       }
     },
     {
@@ -39597,7 +39747,8 @@
       },
       "properties": {
         "FID": 150,
-        "name": "Sweden"
+        "name": "Sweden",
+        "ISO3CD": "SWE"
       }
     },
     {
@@ -39656,7 +39807,8 @@
       },
       "properties": {
         "FID": 151,
-        "name": "Swaziland"
+        "name": "Eswatini",
+        "ISO3CD": "SWZ"
       }
     },
     {
@@ -39779,7 +39931,8 @@
       },
       "properties": {
         "FID": 152,
-        "name": "Syria"
+        "name": "Syrian Arab Republic",
+        "ISO3CD": "SYR"
       }
     },
     {
@@ -40026,7 +40179,8 @@
       },
       "properties": {
         "FID": 153,
-        "name": "Chad"
+        "name": "Chad",
+        "ISO3CD": "TCD"
       }
     },
     {
@@ -40117,7 +40271,8 @@
       },
       "properties": {
         "FID": 154,
-        "name": "Togo"
+        "name": "Togo",
+        "ISO3CD": "TGO"
       }
     },
     {
@@ -40388,7 +40543,8 @@
       },
       "properties": {
         "FID": 155,
-        "name": "Thailand"
+        "name": "Thailand",
+        "ISO3CD": "THA"
       }
     },
     {
@@ -40567,7 +40723,8 @@
       },
       "properties": {
         "FID": 156,
-        "name": "Tajikistan"
+        "name": "Tajikistan",
+        "ISO3CD": "TJK"
       }
     },
     {
@@ -40798,7 +40955,8 @@
       },
       "properties": {
         "FID": 157,
-        "name": "Turkmenistan"
+        "name": "Turkmenistan",
+        "ISO3CD": "TKM"
       }
     },
     {
@@ -40857,7 +41015,8 @@
       },
       "properties": {
         "FID": 158,
-        "name": "East Timor"
+        "name": "Timor-Leste",
+        "ISO3CD": "TLS"
       }
     },
     {
@@ -40904,7 +41063,8 @@
       },
       "properties": {
         "FID": 159,
-        "name": "Trinidad and Tobago"
+        "name": "Trinidad and Tobago",
+        "ISO3CD": "TTO"
       }
     },
     {
@@ -41043,7 +41203,8 @@
       },
       "properties": {
         "FID": 160,
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "ISO3CD": "TUN"
       }
     },
     {
@@ -41332,7 +41493,8 @@
       },
       "properties": {
         "FID": 161,
-        "name": "Turkey"
+        "name": "Türkiye",
+        "ISO3CD": "TUR"
       }
     },
     {
@@ -41383,7 +41545,8 @@
       },
       "properties": {
         "FID": 162,
-        "name": "Taiwan"
+        "name": "Taiwan",
+        "ISO3CD": "CHN"
       }
     },
     {
@@ -41594,7 +41757,8 @@
       },
       "properties": {
         "FID": 163,
-        "name": "United Republic of Tanzania"
+        "name": "United Republic of Tanzania",
+        "ISO3CD": "TZA"
       }
     },
     {
@@ -41717,7 +41881,8 @@
       },
       "properties": {
         "FID": 164,
-        "name": "Uganda"
+        "name": "Uganda",
+        "ISO3CD": "UGA"
       }
     },
     {
@@ -42124,7 +42289,8 @@
       },
       "properties": {
         "FID": 165,
-        "name": "Ukraine"
+        "name": "Ukraine",
+        "ISO3CD": "UKR"
       }
     },
     {
@@ -42223,7 +42389,8 @@
       },
       "properties": {
         "FID": 166,
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "ISO3CD": "URY"
       }
     },
     {
@@ -44048,7 +44215,8 @@
       },
       "properties": {
         "FID": 167,
-        "name": "United States of America"
+        "name": "United States of America",
+        "ISO3CD": "USA"
       }
     },
     {
@@ -44279,7 +44447,8 @@
       },
       "properties": {
         "FID": 168,
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "ISO3CD": "UZB"
       }
     },
     {
@@ -44662,7 +44831,8 @@
       },
       "properties": {
         "FID": 169,
-        "name": "Venezuela"
+        "name": "Venezuela (Bolivarian Republic of)",
+        "ISO3CD": "VEN"
       }
     },
     {
@@ -44853,7 +45023,8 @@
       },
       "properties": {
         "FID": 170,
-        "name": "Vietnam"
+        "name": "Viet Nam",
+        "ISO3CD": "VNM"
       }
     },
     {
@@ -44922,7 +45093,8 @@
       },
       "properties": {
         "FID": 171,
-        "name": "Vanuatu"
+        "name": "Vanuatu",
+        "ISO3CD": "VUT"
       }
     },
     {
@@ -44973,7 +45145,8 @@
       },
       "properties": {
         "FID": 172,
-        "name": "West Bank"
+        "name": "West Bank",
+        "ISO3CD": "PSE"
       }
     },
     {
@@ -45164,7 +45337,8 @@
       },
       "properties": {
         "FID": 173,
-        "name": "Yemen"
+        "name": "Yemen",
+        "ISO3CD": "YEM"
       }
     },
     {
@@ -45557,7 +45731,8 @@
       },
       "properties": {
         "FID": 174,
-        "name": "South Africa"
+        "name": "South Africa",
+        "ISO3CD": "ZAF"
       }
     },
     {
@@ -45816,7 +45991,8 @@
       },
       "properties": {
         "FID": 175,
-        "name": "Zambia"
+        "name": "Zambia",
+        "ISO3CD": "ZMB"
       }
     },
     {
@@ -45979,7 +46155,8 @@
       },
       "properties": {
         "FID": 176,
-        "name": "Zimbabwe"
+        "name": "Zimbabwe",
+        "ISO3CD": "ZWE"
       }
     },
     {
@@ -46026,7 +46203,8 @@
       },
       "properties": {
         "FID": 177,
-        "name": "Abyei"
+        "name": "Abyei",
+        "ISO3CD": "xxx"
       }
     },
     {
@@ -46197,7 +46375,8 @@
       },
       "properties": {
         "FID": 178,
-        "name": "Jammu and Kashmir"
+        "name": "Jammu and Kashmir",
+        "ISO3CD": "xjk"
       }
     },
     {
@@ -46260,7 +46439,8 @@
       },
       "properties": {
         "FID": 179,
-        "name": "Aksai Chin"
+        "name": "Aksai Chin",
+        "ISO3CD": "xac"
       }
     },
     {
@@ -46295,7 +46475,8 @@
       },
       "properties": {
         "FID": 180,
-        "name": "Norfolk Island"
+        "name": "Norfolk Island",
+        "ISO3CD": "AUS"
       }
     },
     {
@@ -46338,7 +46519,8 @@
       },
       "properties": {
         "FID": 181,
-        "name": "United Kingdom"
+        "name": "Pitcairn",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -46423,7 +46605,8 @@
       },
       "properties": {
         "FID": 182,
-        "name": "Cook Islands"
+        "name": "Cook Islands",
+        "ISO3CD": "COK"
       }
     },
     {
@@ -46508,7 +46691,8 @@
       },
       "properties": {
         "FID": 183,
-        "name": "Comoros"
+        "name": "Comoros",
+        "ISO3CD": "COM"
       }
     },
     {
@@ -46543,7 +46727,8 @@
       },
       "properties": {
         "FID": 184,
-        "name": "Tuvalu"
+        "name": "Tuvalu",
+        "ISO3CD": "TUV"
       }
     },
     {
@@ -46578,7 +46763,8 @@
       },
       "properties": {
         "FID": 185,
-        "name": "Nauru"
+        "name": "Nauru",
+        "ISO3CD": "NRU"
       }
     },
     {
@@ -46639,7 +46825,8 @@
       },
       "properties": {
         "FID": 186,
-        "name": "Sao Tome and Principe"
+        "name": "Sao Tome and Principe",
+        "ISO3CD": "STP"
       }
     },
     {
@@ -46724,7 +46911,8 @@
       },
       "properties": {
         "FID": 187,
-        "name": "Maldives"
+        "name": "Maldives",
+        "ISO3CD": "MDV"
       }
     },
     {
@@ -46759,7 +46947,8 @@
       },
       "properties": {
         "FID": 188,
-        "name": "Netherlands"
+        "name": "Bonaire",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -46794,7 +46983,8 @@
       },
       "properties": {
         "FID": 189,
-        "name": "Barbados"
+        "name": "Barbados",
+        "ISO3CD": "BRB"
       }
     },
     {
@@ -46829,7 +47019,8 @@
       },
       "properties": {
         "FID": 190,
-        "name": "Saint Lucia"
+        "name": "Saint Lucia",
+        "ISO3CD": "LCA"
       }
     },
     {
@@ -46864,7 +47055,8 @@
       },
       "properties": {
         "FID": 191,
-        "name": "France"
+        "name": "Martinique",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -46973,7 +47165,8 @@
       },
       "properties": {
         "FID": 192,
-        "name": "Cabo Verde"
+        "name": "Cabo Verde",
+        "ISO3CD": "CPV"
       }
     },
     {
@@ -47008,7 +47201,8 @@
       },
       "properties": {
         "FID": 193,
-        "name": "Netherlands"
+        "name": "Sint Eustatius",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -47141,7 +47335,8 @@
       },
       "properties": {
         "FID": 194,
-        "name": "Canary Islands"
+        "name": "Canary Islands",
+        "ISO3CD": "ESP"
       }
     },
     {
@@ -47176,7 +47371,8 @@
       },
       "properties": {
         "FID": 195,
-        "name": "Monaco"
+        "name": "Monaco",
+        "ISO3CD": "MCO"
       }
     },
     {
@@ -47211,7 +47407,8 @@
       },
       "properties": {
         "FID": 196,
-        "name": "Singapore"
+        "name": "Singapore",
+        "ISO3CD": "SGP"
       }
     },
     {
@@ -47254,7 +47451,8 @@
       },
       "properties": {
         "FID": 197,
-        "name": "San Marino"
+        "name": "San Marino",
+        "ISO3CD": "SMR"
       }
     },
     {
@@ -47309,7 +47507,8 @@
       },
       "properties": {
         "FID": 198,
-        "name": "Timor-Leste"
+        "name": "Timor-Leste",
+        "ISO3CD": "TLS"
       }
     },
     {
@@ -47344,7 +47543,8 @@
       },
       "properties": {
         "FID": 199,
-        "name": "Australia"
+        "name": "Cocos (Keeling) Islands",
+        "ISO3CD": "AUS"
       }
     },
     {
@@ -47379,7 +47579,8 @@
       },
       "properties": {
         "FID": 200,
-        "name": "Denmark"
+        "name": "Faroe Islands",
+        "ISO3CD": "DNK"
       }
     },
     {
@@ -47524,7 +47725,8 @@
       },
       "properties": {
         "FID": 201,
-        "name": "South Georgia and the South Sandwich Islands"
+        "name": "South Georgia and the South Sandwich Islands",
+        "ISO3CD": "SGS"
       }
     },
     {
@@ -47559,7 +47761,8 @@
       },
       "properties": {
         "FID": 202,
-        "name": "Bouvet Island"
+        "name": "Bouvet Island",
+        "ISO3CD": "NOR"
       }
     },
     {
@@ -47594,7 +47797,8 @@
       },
       "properties": {
         "FID": 203,
-        "name": "Australia"
+        "name": "Heard Island and McDonald Islands",
+        "ISO3CD": "AUS"
       }
     },
     {
@@ -47655,7 +47859,8 @@
       },
       "properties": {
         "FID": 204,
-        "name": "Saint Helena"
+        "name": "Saint Helena",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -47716,7 +47921,8 @@
       },
       "properties": {
         "FID": 205,
-        "name": "Tonga"
+        "name": "Tonga",
+        "ISO3CD": "TON"
       }
     },
     {
@@ -47751,7 +47957,8 @@
       },
       "properties": {
         "FID": 206,
-        "name": "Réunion"
+        "name": "Réunion",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -47812,7 +48019,8 @@
       },
       "properties": {
         "FID": 207,
-        "name": "Mauritius"
+        "name": "Mauritius",
+        "ISO3CD": "MUS"
       }
     },
     {
@@ -47847,7 +48055,8 @@
       },
       "properties": {
         "FID": 208,
-        "name": "Niue"
+        "name": "Niue",
+        "ISO3CD": "NIU"
       }
     },
     {
@@ -47882,7 +48091,8 @@
       },
       "properties": {
         "FID": 209,
-        "name": "Saint Helena"
+        "name": "Saint Helena",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -47975,7 +48185,8 @@
       },
       "properties": {
         "FID": 210,
-        "name": "American Samoa"
+        "name": "American Samoa",
+        "ISO3CD": "USA"
       }
     },
     {
@@ -48036,7 +48247,8 @@
       },
       "properties": {
         "FID": 211,
-        "name": "Samoa"
+        "name": "Samoa",
+        "ISO3CD": "WSM"
       }
     },
     {
@@ -48071,7 +48283,8 @@
       },
       "properties": {
         "FID": 212,
-        "name": "Mayotte"
+        "name": "Mayotte",
+        "ISO3CD": "MYT"
       }
     },
     {
@@ -48106,7 +48319,8 @@
       },
       "properties": {
         "FID": 213,
-        "name": "Australia"
+        "name": "Christmas Island",
+        "ISO3CD": "AUS"
       }
     },
     {
@@ -48199,7 +48413,8 @@
       },
       "properties": {
         "FID": 214,
-        "name": "Seychelles"
+        "name": "Seychelles",
+        "ISO3CD": "SYC"
       }
     },
     {
@@ -48234,7 +48449,8 @@
       },
       "properties": {
         "FID": 215,
-        "name": "Tokelau"
+        "name": "Tokelau",
+        "ISO3CD": "NZL"
       }
     },
     {
@@ -48295,7 +48511,8 @@
       },
       "properties": {
         "FID": 216,
-        "name": "Mauritius"
+        "name": "Mauritius",
+        "ISO3CD": "MUS"
       }
     },
     {
@@ -48500,7 +48717,8 @@
       },
       "properties": {
         "FID": 217,
-        "name": "Kiribati"
+        "name": "Kiribati",
+        "ISO3CD": "KIR"
       }
     },
     {
@@ -48633,7 +48851,8 @@
       },
       "properties": {
         "FID": 218,
-        "name": "Ecuador"
+        "name": "Galápagos Islands",
+        "ISO3CD": "ECU"
       }
     },
     {
@@ -48742,7 +48961,8 @@
       },
       "properties": {
         "FID": 219,
-        "name": "Micronesia (Federated States of)"
+        "name": "Micronesia (Federated States of)",
+        "ISO3CD": "FSM"
       }
     },
     {
@@ -48827,7 +49047,8 @@
       },
       "properties": {
         "FID": 220,
-        "name": "Marshall Islands"
+        "name": "Marshall Islands",
+        "ISO3CD": "MHL"
       }
     },
     {
@@ -48862,7 +49083,8 @@
       },
       "properties": {
         "FID": 221,
-        "name": "Netherlands"
+        "name": "Curaçao",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -48897,7 +49119,8 @@
       },
       "properties": {
         "FID": 222,
-        "name": "Guam"
+        "name": "Guam",
+        "ISO3CD": "USA"
       }
     },
     {
@@ -48932,7 +49155,8 @@
       },
       "properties": {
         "FID": 223,
-        "name": "France"
+        "name": "Guadeloupe",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -48967,7 +49191,8 @@
       },
       "properties": {
         "FID": 224,
-        "name": "Montserrat"
+        "name": "Montserrat",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -49002,7 +49227,8 @@
       },
       "properties": {
         "FID": 225,
-        "name": "Netherlands"
+        "name": "Saba",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -49037,7 +49263,8 @@
       },
       "properties": {
         "FID": 226,
-        "name": "Sint Maarten"
+        "name": "Sint Maarten",
+        "ISO3CD": "NLD"
       }
     },
     {
@@ -49072,7 +49299,8 @@
       },
       "properties": {
         "FID": 227,
-        "name": "Saint Martin"
+        "name": "Saint Martin",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -49107,7 +49335,8 @@
       },
       "properties": {
         "FID": 228,
-        "name": "Anguilla"
+        "name": "Anguilla",
+        "ISO3CD": "GBR"
       }
     },
     {
@@ -49142,7 +49371,8 @@
       },
       "properties": {
         "FID": 229,
-        "name": "Saint Pierre et Miquelon"
+        "name": "Saint Pierre et Miquelon",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -49177,7 +49407,8 @@
       },
       "properties": {
         "FID": 230,
-        "name": "Åland Islands"
+        "name": "Åland Islands",
+        "ISO3CD": "FIN"
       }
     },
     {
@@ -49598,7 +49829,8 @@
       },
       "properties": {
         "FID": 231,
-        "name": "France"
+        "name": "French Polynesia",
+        "ISO3CD": "FRA"
       }
     },
     {
@@ -49633,7 +49865,8 @@
       },
       "properties": {
         "FID": 232,
-        "name": "Portugal"
+        "name": "Madeira Island",
+        "ISO3CD": "PRT"
       }
     },
     {
@@ -49742,7 +49975,8 @@
       },
       "properties": {
         "FID": 233,
-        "name": "Portugal"
+        "name": "Azores Islands",
+        "ISO3CD": "PRT"
       }
     },
     {
@@ -49777,7 +50011,8 @@
       },
       "properties": {
         "FID": 234,
-        "name": "Andorra"
+        "name": "Andorra",
+        "ISO3CD": "AND"
       }
     },
     {
@@ -49816,7 +50051,8 @@
       },
       "properties": {
         "FID": 235,
-        "name": "Liechtenstein"
+        "name": "Liechtenstein",
+        "ISO3CD": "LIE"
       }
     },
     {
@@ -49851,7 +50087,8 @@
       },
       "properties": {
         "FID": 236,
-        "name": "Bahrain"
+        "name": "Bahrain",
+        "ISO3CD": "BHR"
       }
     },
     {
@@ -49886,7 +50123,8 @@
       },
       "properties": {
         "FID": 237,
-        "name": "Yemen"
+        "name": "Yemen",
+        "ISO3CD": "YEM"
       }
     },
     {
@@ -49921,7 +50159,8 @@
       },
       "properties": {
         "FID": 238,
-        "name": "Spain"
+        "name": "Spain",
+        "ISO3CD": "ESP"
       }
     }
   ]
